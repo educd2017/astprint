@@ -2,7 +2,10 @@ self.addEventListener('install', e => {
   e.waitUntil(
     caches.open('printast-pwa-v1').then(cache => {
       return cache.addAll([
+        '/p/terms-and-conditions.html',
         'https://www.printast.top',
+        '/',
+        '/?m=1',
         'https://www.printast.top/?m=1',
         'printast.top/?m=1',
         '/p/products.html?m=1',
