@@ -3,12 +3,13 @@ self.addEventListener('install', e => {
     caches.open('printast-pwa-v1').then(cache => {
       return cache.addAll([
         '/',
-        '/p/products.html',
-        '/2025/08/eltakhrg.html',
-        '/p/client-review.html',
-        '/p/about.html',
-        '/p/faq.html',
-        '/index.html'
+        '/?m=1',
+        '/p/products.html?m=1',
+        '/2025/08/eltakhrg.html?m=1',
+        '/p/client-review.html?m=1',
+        '/p/about.html?m=1',
+        '/p/faq.html?m=1',
+        '/index.html?m=1'
       ]);
     })
   );
