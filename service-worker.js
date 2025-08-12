@@ -4,6 +4,7 @@ self.addEventListener('install', e => {
       return cache.addAll([
         'https://www.printast.top',
         'https://www.printast.top/?m=1',
+        'printast.top/?m=1',
         '/p/products.html?m=1',
         '/2025/08/eltakhrg.html?m=1',
         '/p/client-review.html?m=1',
