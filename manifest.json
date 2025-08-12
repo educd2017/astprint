@@ -1,21 +1,31 @@
 {
-  "name": "Printast",
-  "short_name": "Printast",
+  "name": "برنتست - طباعة اسرع اسيوط",
+  "short_name": "برنتست - طباعة اسرع اسيوط",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#2196f3",
-  "description": "Printast - أفضل قوالب وخدمات التصميم والطباعة.",
-  "icons": [
-    {
-      "src": "https://USERNAME.github.io/REPO_NAME/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "https://USERNAME.github.io/REPO_NAME/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+  "background_color": "#020120",
+  "theme_color": "#ffffff",
+  "description": "برنتست - خدمات التصميم والطباعة الاحترافية باسيوط",
+"icons": [
+  {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH2rSUgDmWsNJ1KnWZ0JfQ0Akug1t3807BZMnnqAFWnDK10Tb5mD-0vHcJaaxyMGwyYpoRIpp8gINV-Dc-njyenbZKZG6tFIP_B5IF1qWrLtlT-Ai5tsA-5IAc3UY34YyaBP85pGHvSTc3JTmI0vLHIJpLoKdnC98TZajzO9L9-he9olB35UYACRVP4xSp/s1600/printast192.webp",
+    "sizes": "192x192",
+    "type": "image/webp"
+  },
+  {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKdby1d44z7STdocgwYZX2ap8JW-2M_S9ZoKqiQzUgWjJ5-Yy_IBbxap2DRKmfxEKydrLA_dan5m38kjl575uaEqX_g5XcIsB2Xg52_iE0dIHyd328B73mFvuQlocoIqSgJRVmttn_NLbFCvqp52OpzzCmHQMvRL-MmPfcjRsKB9zut-mAElDPIpAw5aJ6/s1600/printast192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgShY7ZEvtwBMvP2zeasQ756VB7CyB1pKQhXFFFkVWwnjrtWZKOKTQ4CS_3IT4RCosF4Z5NLwDN9Cpee7qyLCX1nkGdMFuwAXwA56scaO_dfUxz5E65wldfEoHgbMen_BsFqyxrxt2uoMRQfbV53kxKvb140nClI2k8V0b5MvzxYTZGDJKNVQ8wFS8p3da7/s1600/printast512.webp",
+    "sizes": "512x512",
+    "type": "image/webp"
+  },
+  {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo4n7Zc9PaO-vvYpgap6pkHU1-t2JGhJH1frUcFDLIgqRTIYtb1KJb9seV2ddmsXVl1PFDdv28YPpSGTOP_L8ZFqO6VKXPtVc6C-srOztvp3mUK7m5Ns8zUSF9ytRNlyrbqHgtXX2xiHEgnxN_OgT7PwS59RfeITpiI-mNCMhW_ucVHXs-En44GQlib1HV/s1600/printast512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+]
 }
