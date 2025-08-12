@@ -1,6 +1,7 @@
 {
   "name": "برنتست - طباعة اسرع اسيوط",
   "short_name": "برنتست - طباعة اسرع اسيوط",
+  "scope": "/",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#020120",
