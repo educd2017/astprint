@@ -9,7 +9,8 @@ self.addEventListener('install', e => {
         '/p/client-review.html?m=1',
         '/p/about.html?m=1',
         '/p/faq.html?m=1',
-        '/index.html?m=1'
+        'https://www.printast.top/?m=1',
+        'https://www.printast.top/'
       ]);
     })
   );
